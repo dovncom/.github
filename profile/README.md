@@ -1,4 +1,4 @@
-<p align="center"><img src="../assets/dovn-header.jpg" alt="Dovn" width="100%"></p>
+<p align="center"><img src="../assets/dovn-header.webp" alt="Dovn" width="100%"></p>
 
 <p align="center">
   <a href="https://dovn.com">dovn.com</a> •
@@ -8,7 +8,8 @@
   <a href="https://dovn.com/contact">Contact</a>
 </p>
 
-## Removing technical roadblocks
+<p><img src="../assets/dovn-about.webp" alt="01 Removing technical roadblocks" width="100%"></p>
+
 
 An IT professional focused on removing technical roadblocks and helping people stay
 productive: information systems, their management and user support, across Windows, Apple
@@ -21,7 +22,8 @@ and Android. On the side: Roblox worlds like Super Sports!, logos, websites and 
 `Microsoft 365` `Azure` `Entra ID` `Intune` `Windows Server` `Windows, Apple & Android`
 `Mobile device management` `ITIL`
 
-## What Dovn works on
+<p><img src="../assets/dovn-focus.webp" alt="02 What Dovn works on" width="100%"></p>
+
 
 - **Technology**: exploring new tools and understanding how systems work behind the scenes.
 - **Consulting**: helping people and organisations get more from technology, with simple solutions that make work easier.
@@ -29,7 +31,8 @@ and Android. On the side: Roblox worlds like Super Sports!, logos, websites and 
 - **Leadership**: lessons from colleagues, and an interest in leading and developing teams.
 - **Learning**: learning through work, personal projects and new topics, a little every day.
 
-## Find Dovn
+<p><img src="../assets/dovn-find.webp" alt="03 Find Dovn" width="100%"></p>
+
 
 | Site | What it is |
 | :-- | :-- |
