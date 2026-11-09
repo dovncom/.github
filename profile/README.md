@@ -18,7 +18,7 @@
 
 ### Find Dovn
 
-| | |
+| Site | What it is |
 | --- | --- |
 | 🌐 [dovn.com](https://dovn.com) | Projects, the blog and how to get in touch |
 | 🟢 [status.dovn.com](https://status.dovn.com) | Live service status |
