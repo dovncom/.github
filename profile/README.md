@@ -1,4 +1,4 @@
-<p align="center"><img src="../assets/dovn-banner.png" alt="Dovn: removing technical roadblocks, so people can stay focused on their work" width="100%"></p>
+<p align="center"><img src="../assets/dovn-header.jpg" alt="Dovn" width="100%"></p>
 
 <p align="center">
   <a href="https://dovn.com">dovn.com</a> •
